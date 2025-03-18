@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.feature.ar",
+  "displayName": "AR",
+  "version": "1.0.2",
+  "type": "feature",
+  "_upm": {
+    "quickstart": "https://docs.unity3d.com/Documentation/Manual/ARFeature.html"
+  },
+  "description": "Create rich, deeply engaging augmented reality experiences with Unity’s AR Feature Set.  The AR Feature Set provides a starting point for augmented reality development, spanning from head-mounted displays to mobile.",
+  "dependencies": {
+    "com.unity.xr.arfoundation": "default",
+    "com.unity.xr.arkit": "default",
+    "com.unity.xr.arcore": "default",
+    "com.unity.xr.interaction.toolkit": "default",
+    "com.unity.xr.magicleap": "default",
+    "com.unity.xr.openxr": "default"
+  },
+  "_fingerprint": "c0b1979e039901e6ca9a295789467e7ce746fa3b"
+}
